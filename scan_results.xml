@@ -1,0 +1,30 @@
+<scan_results>
+
+    <scan_result>
+
+        <timestamp>2026-05-22 14:35:11</timestamp>
+
+        <filename>fake_malware.txt</filename>
+
+        <filepath>samples/fake_malware.txt</filepath>
+
+        <yara_detected>False</yara_detected>
+
+        <heuristic_score>75</heuristic_score>
+
+        <entropy>5.28</entropy>
+
+        <status>Suspicious</status>
+
+        <quarantined>True</quarantined>
+
+        <matched_rules />
+
+        <matched_keywords>
+            <keyword>powershell</keyword>
+            <keyword>-encodedcommand</keyword>
+        </matched_keywords>
+
+    </scan_result>
+
+</scan_results>

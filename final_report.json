@@ -1,0 +1,9 @@
+{
+    "filename": "test_py.py",
+    "static_status": "Clean",
+    "ai_verdict": "Benign",
+    "malware_probability": 18.0,
+    "entropy": 4.49,
+    "heuristic_score": 40,
+    "final_verdict": "Benign"
+}

@@ -1,0 +1,12 @@
+// PREDICT SYSTEM PE
+C:\Windows\System32\cmd.exe
+C:\Windows\System32\notepad.exe
+C:\Windows\System32\control.exe
+C:\Windows\System32\calc.exe
+C:\Windows\regedit.exe
+C:\Windows\System32\Taskmgr.exe
+C:\Windows\System32\dxdiag.exe
+C:\Windows\System32\cleanmgr.exe
+
+// LINUX FILE PATH
+samples/test_py.py
